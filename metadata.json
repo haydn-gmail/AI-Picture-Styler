@@ -1,0 +1,5 @@
+{
+  "name": "AI 圖片風格轉換",
+  "description": "上傳照片並使用 Gemini 2.5 Flash Image 轉換成各種風格",
+  "requestFramePermissions": []
+}
